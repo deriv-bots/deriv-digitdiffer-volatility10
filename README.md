@@ -24,59 +24,100 @@ Step 7 : Monitor the bot's performance and make adjustments as needed or contact
 
 
 ![AI-Fintech](https://user-images.githubusercontent.com/57016982/170944162-b0775598-289a-49a3-85c6-2c0af545741c.jpg)
-<p align="center">
-Please note that these bots are intended for experienced traders who are familiar with the risks and strategies involved in binary options trading. Before using these bots, it is recommended that you thoroughly test them on a demo account and consult with a financial advisor.
-
-</p>
-
- # 😄 Want to help keeping the project?<br>
-
-You want to contribute to the project? 
-Make a donation to us, Email us derivkingnato@gmail.com for donation payment details.
 
 
-</br>
-</br>
-I also have premium bots with complex automation and high win rate available for sale 💸 
+# How to Start  :
+
+Step 1 : Go to https://deriv.com and go to your profile section under Deriv API \
+Step 2 : Create a new API key with trade option and copy it \
+Step 3 : Download Node.js ( https://nodejs.org/en/download/ ) and after installing launch windows powershell \
+Step 4 : Use this code to set up the bot; \
+         1. mkdir volatility75 
+         Press Enter \
+         2. cd volatility75
+         Press Enter \
+         3. npm init -y
+         Press Enter \
+         4. npm install ws chalk node-notifier
+         Press Enter \
+         5. notepad bot.js
+         Press Enter - now here notepad will open, prompting you to create a new file because te bot isnt there yet, decline it, check on your powershell the location where the volatility 75 folder was created and download the javascript file for volatility 75 above and paste it there. \
+         6. notepad bot .js
+         Press Enter - this should open the bot script.\
+Step 5 : Go to the bot script and replace your API key with the existing one, and also change the stake per run \
+Step 6 : Start Bot and Make money \
+Step 7 : Monitor the bot's performance and make adjustments as needed or contact me in case of difficulties i will help.
 
 
-Get All Bots And strategies by contacting me by E-Mail derivkingnato@gmail.com
+![AI-Fintech](https://user-images.githubusercontent.com/57016982/170944162-b0775598-289a-49a3-85c6-2c0af545741c.jpg)
 
-Join my telegram channel here : https://t.me/Deriv_Bots_Pro
+## 💬 My Contacts & Mentorship Inquiries
 
-If you want to get bot/strategy one by one, Contact me through derivkingnato@gmail.com
+Want premium bots or 1-on-1 guidance? Reach out:
 
+- 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
+- 💬 Telegram: [@Deriv_Bot_Pro](https://t.me/Deriv_Bot_Pro)  
+- 📧 Email: derivkingnato@gmail.com  
 
-# Tips
+---
 
-- Always use proper risk management strategies, such as stop loss orders, when using these bots.
-- Test the bots on a demo account before using them on a live account.
-- Keep an eye on the performance of the bot and make adjustments as needed.
-- Do your own research and seek professional advice before making any investment decisions.
-- Keep in mind that past performance does not guarantee future results.
+## 💸 Premium Bot Combo Offer
 
-# Conclusion
+There are over 40+ premium bots and strategies available  plus lifetime access to future releases. Test, compare, and find your perfect fit.
 
-Binary Bot & Deriv Bot can be a powerful tool for automating binary options trading strategies, but it is important to use them with caution. Always use proper risk management and test the bots thoroughly before using them on live accounts. If you want to maximize your chances of success, do your own research and seek professional advice before making any investment decisions.
+- Combo deal includes all bots + future updates or buy bots indivi
+- Contact me for pricing:
+- 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
+- 💬 Telegram: [@Deriv_Bot_Pro](https://t.me/Deriv_Bot_Pro)  
+- 📧 Email: derivkingnato@gmail.com  
 
+---
 
-# Support
+## 🧠 Pro Tips
 
-If you have any questions or issues related to the use of the bots, please feel free to contact the developer at derivkingnato@gmail.com . Additionally, you can also seek support from the Deriv.com community.
+- Use stop-loss and proper risk management  
+- Always test bots on demo before going live  
+- Track performance and tweak strategies  
+- Never rely solely on automation — stay informed  
+- Past results ≠ future guarantees
 
-# Contribute
+---
 
-If you are interested in contributing to the project, you can do so by:
-- Submitting bug reports and feature requests on the GitHub repository
-- Helping others in the community by answering questions and providing solutions
-- Suggesting new strategies and bots
-- Improving the existing code
-- Submitting pull requests
+## 💎 Join the Inner Circle
 
-We are always open to contributions, big or small, that help improve the project.
+Step into a private trading community built for precision, profit, and elite strategy sharing.
 
-# License
+**𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌:** [https://t.me/Deriv_Bots_Trading](https://t.me/Deriv_Bots_Trading)  
+**𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏:** [https://chat.whatsapp.com/Fgh6GRJbmWV3MdCnnsFr38](https://chat.whatsapp.com/Fgh6GRJbmWV3MdCnnsFr38)
+
+> Access premium bots, live strategy drops, and mentorship from top-tier traders.  
+> This isn’t just a group, it’s your edge.
+
+---
+## 🤝 Contribute
+
+We welcome all contributions:
+
+- Submit issues or feature requests  
+- Share strategies or improvements  
+- Help others in the community  
+- Submit pull requests
+
+---
+
+## 📜 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 🙌 Support the Project
+
+If you’ve benefited from these bots, consider supporting by donating, contact me below for donation details:
+
+- 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
+- 💬 Telegram: [@Deriv_Bot_Pro](https://t.me/Deriv_Bot_Pro)  
+- 📧 Email: derivkingnato@gmail.com
+
 
 
